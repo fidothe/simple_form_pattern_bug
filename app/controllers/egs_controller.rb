@@ -1,0 +1,2 @@
+class EgsController < ApplicationController
+end
